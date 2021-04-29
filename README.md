@@ -25,4 +25,4 @@ Currently I am only using EPL data, though this could easily be used for other l
 
 When running the code, you can specify the number of iterations required. Currently 100 seasons are run by default and the average taken. 
 
-You can also update the boolean value for  "continue_seasons" to determine whether to continue the season from its current real-life staate, or start anew from Game Week1. 
+You can also update the boolean value for  "continue_seasons" to determine whether to continue the season from its current real-life state, or start anew from Game Week1. 
