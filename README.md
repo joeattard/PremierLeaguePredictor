@@ -7,7 +7,7 @@ These probabilities are then used in a function which uses these weighted values
 
 Currently one other factor is used to decide the "team strength" for any given fixture and that is "form". 
 "Form" is determined by taking into account previous results. eg. the more losses, the worse the form and 
-therefore the worse the team strength to a limiting factorwhich is necessary so results don't exponentially decline or rise.
+therefore the worse the team strength to a limiting factor which is required so strength and therefore results do not exponentially decline or rise.
 
 In the future I will add another factor, the home advantage factor!!!
 
